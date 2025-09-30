@@ -5,7 +5,7 @@
 
 ## Branch Strategy
 
-This project use GitFlow:
+This project usse GitFlow:
 - `main`
 - `develop`
 - `feature/`
